@@ -65,7 +65,7 @@ This section consists of extra lessons (13 PARTS) and projects (4 PROJECTS) you 
 ## PART 1
 ### Analyze Bay Area Bikeshare Data
 - Project: Analyze Bay Area Bike Share Data
-- [Project Repository](Projects/Extracurricular%20Project1/)
+- [Project Repository](Projects/Extracurricular_Project1/)
 
 ## PART 2
 ### How to use Git and GitHub
@@ -76,7 +76,7 @@ Learn how to use version control to save and share your projects with others.
 Technical recruiters commonly use GitHub as a recruiting platform. They are looking for activity, consistency, and communication in addition to your overall projects. Look at your GitHub profile through the lens of a recruiter or hiring manager, focusing on how your profile, projects, and code represent you as a potential candidate for a company or collaborator on a project.
 
 - Project: Optimize Your GitHub Profile
-- [Project Repository](Projects/Extracurricular%20Project2/)
+- [Project Repository](Projects/Extracurricular_Project2/)
 
 ## PART 4
 ### Career: Data Analyst Interview Practice
@@ -98,14 +98,14 @@ Learn how to query data and make use of the non-relational database system, Mong
 Make design decisions for an A/B test, including which metrics to measure and how long the test should be run. Analyze the results of an A/B test that was run by Udacity and recommend whether or not to launch the change.
 
 - Project: Design an A/B Test
-- [Project Repository](Projects/Extracurricular%20Project3/)
+- [Project Repository](Projects/Extracurricular_Project3/)
 
 ## PART 9
 ### [Optional] Data Visualization in D3
 Create a data visualization from a data set that tells a story or highlights trends or patterns in the data. Use either dimple.js or d3.js to create the visualization. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
 - Project: Make Effective Data Visualization
-- [Project Repository](Projects/Extracurricular%20Project4/)
+- [Project Repository](Projects/Extracurricular_Project4/)
 
 ## PART 10
 ### [Optional] Introduction to Python
