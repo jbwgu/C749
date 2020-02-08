@@ -2,7 +2,7 @@
 
 Project | Details | Link | Resources
 ------------ | ------------- | ------------- | -------------
-Extracurricular_Project1 | Analyze Bay Area Bike Share Data | [Link](Extracurricular_Project1/) | - enrollments.csv<br>- daily_engagements.csv<br>- project_submissions.csv<br>- table_descriptions.txt<br>- daily_engagement_full.csv<br>
+Extracurricular_Project1 | Analyze Bay Area Bike Share Data | [Link](Extracurricular_Project1/) | - enrollments.csv [Link](/Resources/enrollments.csv)<br>- daily_engagements.csv<br>- project_submissions.csv<br>- table_descriptions.txt<br>- daily_engagement_full.csv<br>
 Extracurricular_Project2 | Optimize Your GitHub Profile | [Link](Extracurricular_Project2/) | - Videos Zip File<br>- Transcripts Zip File<br>- enrollments.csv<br>- daily_engagements.csv<br>- project_submissions.csv<br>- table_descriptions.txt<br>- daily_engagement_full.csv<br>
 Extracurricular_Project3 | Design an A/B Test | [Link](Extracurricular_Project3/) | - enrollments.csv<br>- daily_engagements.csv<br>- project_submissions.csv<br>- table_descriptions.txt<br>- daily_engagement_full.csv<br>
 Extracurricular_Project4 | Make Effective Data Visualization | [Link](Extracurricular_Project4/) | - enrollments.csv<br>- daily_engagements.csv<br>- project_submissions.csv<br>- table_descriptions.txt<br>- daily_engagement_full.csv<br>
