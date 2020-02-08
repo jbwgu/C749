@@ -1,19 +1,19 @@
 # Table of Contents
 
-Resource | Details | Notes  | Link
------------- | ------------- | ------------- | -------------
-Explore+and+Summarize+Data+Videos | ------------- | Extracted 'Videos Zip File' | -------------
-investigate-a-dataset-template.ipynb | ------------- | ------------- | -------------
-Explore+and+Summarize+Data+Subtitles.zip | ------------- | Transcript Zip File | -------------
-Explore+and+Summarize+Data+Videos.zip | ------------- | Videos Zip File | -------------
-README.md | ------------- | ------------- | -------------
-daily-engagement.csv | ------------- | ------------- | -------------
-enrollments.csv | ------------- | ------------- | -------------
-investigate-a-dataset-template.ipynb.zip | ------------- | ------------- | -------------
-project-submissions.csv | ------------- | ------------- | -------------
-table-descriptions.txt | ------------- | ------------- | -------------
-Champagne-Ardenne-Latest(1).md | ------------- | Resource stored on Google Drive | [Link](https://drive.google.com/file/d/1ILbUd_DphX4QB8pRgDhuXfrAI9q1NnJO/view?usp=sharing)
-daily-engagement_full.md | ------------- | Resource stored on Google Drive | [Link](https://drive.google.com/file/d/1tyghOGHBOPu266Db0xjbM-Kd-1RwvQfg/view?usp=sharing)
+Resource | | Notes  | Link
+------------ | ------------- | -------------
+Explore+and+Summarize+Data+Videos | Extracted 'Videos Zip File' | [Link](Explore+and+Summarize+Data+Videos)
+investigate-a-dataset-template.ipynb | ------------- | [Link](investigate-a-dataset-template.ipynb)
+Explore+and+Summarize+Data+Subtitles.zip | Transcript Zip File | [Link](Explore+and+Summarize+Data+Subtitles.zip)
+Explore+and+Summarize+Data+Videos.zip | Videos Zip File | [Link](Explore+and+Summarize+Data+Videos.zip)
+README.md | ------------- |
+daily-engagement.csv | ------------- | [Link](daily-engagement.cs)
+enrollments.csv | ------------- | [Link](enrollments.csv)
+investigate-a-dataset-template.ipynb.zip | ------------- | [Link](investigate-a-dataset-template.ipynb.zip)
+project-submissions.csv | ------------- | [Link](project-submissions.csv)
+table-descriptions.txt | ------------- | [Link](table-descriptions.txt)
+Champagne-Ardenne-Latest(1).md | Resource stored on Google Drive [Drive Link](https://drive.google.com/file/d/1ILbUd_DphX4QB8pRgDhuXfrAI9q1NnJO/view?usp=sharing) | [Link](Champagne-Ardenne-Latest(1).md)
+daily-engagement_full.md | Resource stored on Google Drive [Drive Link](https://drive.google.com/file/d/1tyghOGHBOPu266Db0xjbM-Kd-1RwvQfg/view?usp=sharing) | [Link](daily-engagement_full.md)
 
 # Udacity's Curated Datasets
 
