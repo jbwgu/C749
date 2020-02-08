@@ -1,16 +1,16 @@
 # Repository Structure
-- Projects
-  - Extracurricular_Project1: Analyze Bay Area Bike Share Data
-  - Extracurricular_Project2: Optimize Your GitHub Profile
-  - Extracurricular_Project3: Design an A/B Test
-  - Extracurricular_Project4: Make Effective Data Visualization
-  - Project1: Investigate a Dataset
-  - Project2: Wrangle OpenStreetMap Data
-  - Project3: Explore and Summarize Data
-  - Project4: Test a Perceptual Phenomenon
-  - Project5: Identify Fraud from Enron Email
-  - Project6: Create a Tableau Story
-  - Resources: Udacity Curated Datasets
+- Projects [Link](Projects/)
+  - Extracurricular_Project1: Analyze Bay Area Bike Share Data [Link](Projects/Extracurricular_Project1/)
+  - Extracurricular_Project2: Optimize Your GitHub Profile [Link](Projects/Extracurricular_Project2/)
+  - Extracurricular_Project3: Design an A/B Test [Link](Projects/Extracurricular_Project3/)
+  - Extracurricular_Project4: Make Effective Data Visualization [Link](Projects/Extracurricular_Project4/)
+  - Project1: Investigate a Dataset [Link](Projects/Project1/)
+  - Project2: Wrangle OpenStreetMap Data [Link](Projects/Project2/)
+  - Project3: Explore and Summarize Data [Link](Projects/Project3/)
+  - Project4: Test a Perceptual Phenomenon [Link](Projects/Project4/)
+  - Project5: Identify Fraud from Enron Email [Link](Projects/Project5/)
+  - Project6: Create a Tableau Story [Link](Projects/Project6/)
+  - Resources: Udacity Curated Datasets [Link](Projects/Resources/)
 - .gitignore
 - README.md
 
