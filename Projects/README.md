@@ -2,7 +2,7 @@
 
 Project | Details | Link | Resources
 ------------ | ------------- | ------------- | -------------
-Extracurricular_Project1 | Analyze Bay Area Bike Share Data | [Link](Extracurricular_Project1/) | * enrollments.csv<br>* daily_engagements.csv<br>* project_submissions.csv<br>* table_descriptions.csv<br>* daily_engagement_full.csv<br>
+Extracurricular_Project1 | Analyze Bay Area Bike Share Data | [Link](Extracurricular_Project1/) | - Investigate-A-Dataset-Template.lpynb<br>- enrollments.csv<br>- daily_engagements.csv<br>- project_submissions.csv<br>- table_descriptions.csv<br>- daily_engagement_full.csv<br>
 Extracurricular_Project2 | Optimize Your GitHub Profile | [Link](Extracurricular_Project2/)
 Extracurricular_Project3 | Design an A/B Test | [Link](Extracurricular_Project3/)
 Extracurricular_Project4 | Make Effective Data Visualization | [Link](Extracurricular_Project4/)
