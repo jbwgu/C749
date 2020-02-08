@@ -1,3 +1,20 @@
+# Table of Contents
+
+Resource | Details | Notes  | Link
+------------ | ------------- | ------------- | -------------
+Explore+and+Summarize+Data+Videos | ------------- | Extracted 'Videos Zip File' | -------------
+investigate-a-dataset-template.ipynb | ------------- | ------------- | -------------
+Explore+and+Summarize+Data+Subtitles.zip | ------------- | Transcript Zip File | -------------
+Explore+and+Summarize+Data+Videos.zip | ------------- | Videos Zip File | -------------
+README.md | ------------- | ------------- | -------------
+daily-engagement.csv | ------------- | ------------- | -------------
+enrollments.csv | ------------- | ------------- | -------------
+investigate-a-dataset-template.ipynb.zip | ------------- | ------------- | -------------
+project-submissions.csv | ------------- | ------------- | -------------
+table-descriptions.txt | ------------- | ------------- | -------------
+Champagne-Ardenne-Latest(1).md | ------------- | ------------- | -------------
+daily-engagement_full.md | ------------- | ------------- | -------------
+
 # Udacity's Curated Datasets
 
 ## enrollments.csv
