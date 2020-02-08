@@ -1,6 +1,6 @@
 # Table of Contents
 
-Resource | | Notes  | Link
+Resource | Notes  | Link
 ------------ | ------------- | -------------
 Explore+and+Summarize+Data+Videos | Extracted 'Videos Zip File' | [Link](Explore+and+Summarize+Data+Videos)
 investigate-a-dataset-template.ipynb | ------------- | [Link](investigate-a-dataset-template.ipynb)
