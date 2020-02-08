@@ -12,8 +12,8 @@ enrollments.csv | ------------- | ------------- | -------------
 investigate-a-dataset-template.ipynb.zip | ------------- | ------------- | -------------
 project-submissions.csv | ------------- | ------------- | -------------
 table-descriptions.txt | ------------- | ------------- | -------------
-Champagne-Ardenne-Latest(1).md | ------------- | ------------- | -------------
-daily-engagement_full.md | ------------- | ------------- | -------------
+Champagne-Ardenne-Latest(1).md | ------------- | Resource stored on Google Drive | -------------
+daily-engagement_full.md | ------------- | Resource stored on Google Drive | -------------
 
 # Udacity's Curated Datasets
 
