@@ -1,3 +1,19 @@
+# Repository Table of Contents
+- Projects
+  - Extracurricular_Project1
+  - Extracurricular_Project2
+  - Extracurricular_Project3
+  - Extracurricular_Project4
+  - Project1
+  - Project2
+  - Project3
+  - Project4
+  - Project5
+  - Project6
+  - Resources
+- .gitignore
+- README.md
+
 # C749: WGU - Data Analyst Nanodegree Program
 ## Udacity Data Analyst Nanodegree Part 1/5
 
