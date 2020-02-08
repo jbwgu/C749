@@ -17,6 +17,27 @@ daily-engagement_full.md | Resource stored on Google Drive [Drive Link](https://
 
 # Udacity's Curated Datasets
 
+## Explore+and+Summarize+Data+Videos
+
+-------------------------------------------------------------------------------
+## investigate-a-dataset-template.ipynb
+
+-------------------------------------------------------------------------------
+## Explore+and+Summarize+Data+Subtitles.zip
+
+-------------------------------------------------------------------------------
+## Explore+and+Summarize+Data+Videos.zip
+
+-------------------------------------------------------------------------------
+## investigate-a-dataset-template.ipynb.zip
+
+-------------------------------------------------------------------------------
+## table-descriptions.txt
+
+-------------------------------------------------------------------------------
+## Champagne-Ardenne-Latest(1).md
+
+-------------------------------------------------------------------------------
 ## enrollments.csv
 
 Data about a random subset of Data Analyst Nanodegree students who complete their first project and a random subset of students who do not.
